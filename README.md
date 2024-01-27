@@ -17,7 +17,7 @@ To use the CNN model:
 - Train the CNN model on your dataset using the fit function, specifying the training data and validation data.
 - Evaluate the model's performance using metrics such as accuracy and loss.
 - Make predictions on new, unseen data using the trained model.
-
+![Screenshot](distribution_aminoacid.png)
 ## To be implemented 
 - Probability distribution for categorical labeling
 
