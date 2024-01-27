@@ -1,6 +1,7 @@
 # Classify the universe proteome
 ## Overview
-This project aims to develop a Convolutional Neural Network (CNN) models for classification of proteome variety. The CNN model is trained on the pfam dataset and the goal is to accurately classify the input data into different categories or classes.
+This project aims to develop a Convolutional Neural Network (CNN) model for the classification of proteome variety. The CNN model is trained on the Pfam dataset and the goal is to accurately classify the input data into different categories or classes. Below the PMT1_CAEEL, an exponent of the Methyltransf_25 class annotated in Pfam.
+![Screenshot](PMT1_CAEEL.png)
 
 ## Features
 - Utilizes a Convolutional Neural Network (CNN) architecture for classification tasks.
@@ -21,5 +22,5 @@ To use the CNN model:
 - Make predictions on new, unseen data using the trained model.
 ![Screenshot](distribution_aminoacid.png)
 ## To be implemented 
-- Probability distribution for categorical labeling
+- Probability distribution for categorical labelling
 
