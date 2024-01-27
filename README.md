@@ -7,6 +7,8 @@ This project aims to develop a Convolutional Neural Network (CNN) models for cla
 - Implements techniques such as data preprocessing, augmentation, and validation to enhance model performance.
 - Offers flexibility to customize the CNN architecture, including the number of convolutional layers, pooling layers, and dense layers.
 - Supports integration with popular machine learning frameworks like TensorFlow and Keras.
+![Screenshot](workflow.png)
+  
 
 ## Usage
 To use the CNN model:
